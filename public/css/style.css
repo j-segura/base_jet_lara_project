@@ -1,0 +1,9 @@
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link_active {
+    background: red;
+}
